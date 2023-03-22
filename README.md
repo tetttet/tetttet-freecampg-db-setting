@@ -1,4 +1,4 @@
-# universe-freecampg-db-setting
+# TETTTET-freecampg-db-setting
 
 * CREATE DATABASE
 * CREATE TABLES
