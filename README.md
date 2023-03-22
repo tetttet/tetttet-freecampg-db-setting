@@ -1,4 +1,4 @@
-# TETTTET-freecampg-db-setting
+# Qtew-freecampg-db-setting
 
 * CREATE DATABASE
 * CREATE TABLES
